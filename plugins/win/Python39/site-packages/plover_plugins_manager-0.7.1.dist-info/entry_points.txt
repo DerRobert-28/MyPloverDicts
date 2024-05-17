@@ -1,0 +1,5 @@
+[console_scripts]
+plover_plugins = plover_plugins_manager.__main__:main
+
+[plover.gui.qt.tool]
+plugins_manager = plover_plugins_manager.gui_qt.manager:PluginsManager

@@ -1,0 +1,119 @@
+Metadata-Version: 2.1
+Name: plover-plugins-manager
+Version: 0.7.1
+Summary: Plugins manager for Plover
+Home-page: https://github.com/benoit-pierre/plover_plugins_manager
+Author: Benoit Pierre
+Author-email: benoit.pierre@gmail.com
+License: GNU General Public License v2 or later (GPLv2+)
+Project-URL: Source Code, https://github.com/benoit-pierre/plover_plugins_manager
+Project-URL: Issue Tracker, https://github.com/benoit-pierre/plover_plugins_manager/issues
+Keywords: plover plover_plugin
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Plugins
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: pip
+Requires-Dist: pkginfo (>=1.4.2)
+Requires-Dist: plover[gui_qt] (>=4.0.0.dev8)
+Requires-Dist: pygments
+Requires-Dist: readme-renderer[md]
+Requires-Dist: requests (>=2.0.0)
+Requires-Dist: requests-cache (>=0.4.11)
+Requires-Dist: requests-futures (>=0.9.8)
+Requires-Dist: setuptools
+Requires-Dist: wheel
+Provides-Extra: test
+Requires-Dist: pytest ; extra == 'test'
+Requires-Dist: pytest-shutil ; extra == 'test'
+
+# Plover Plugin Manager
+
+## Release history
+
+### 0.7.1
+
+* fix editable installation (ensure UI files are properly generated)
+
+### 0.7.0
+
+* tweak custom info widget's API for reuse in other plugins
+
+### 0.6.3
+
+* fix Python packaging
+
+### 0.6.2
+
+* fix compatibility with `requests-cache>=0.8.0`
+
+### 0.6.1
+
+* minor tweaks to make packaging for AUR easier
+
+### 0.6.0
+
+* warn users about the security risk when installing plugins
+* fix plugin install/removal when running in a Python virtual environment
+
+### 0.5.16
+
+* stop using PyPI's (disabled) XMLRPC search endpoint, and switch to a self-hosted registry of
+  available plugins (maintained at <https://github.com/openstenoproject/plover_plugins_registry>).
+
+### 0.5.15
+
+* fix support for cancelling an install/update/removal operation on Windows.
+
+### 0.5.14
+
+* drop the use of pip's internal APIs
+* drop the dependency on PyQt5 WebEngine
+* improve and simplify cache handling: persistently cache all network
+  requests (with a 10 minutes expiration date)
+* support for Python 3.8
+
+### 0.5.13
+
+* add support for `pip>=18.0`
+* add support for `PyQt5>=5.11`
+* add support for Markdown plugin descriptions
+
+### 0.5.12
+
+* improve handling of plugins when user site is disabled: always list the
+  version for the user installed plugin (even if it's older than the system
+  package version and user site packages are disabled)
+* disable pip version check
+* add support for `pip>=10.0`
+
+### 0.5.11
+
+* plugins are now handled even if they can't be loaded by Plover
+  (so it's possible to update/uninstall broken plugins)
+
+### 0.5.10
+
+* fix #5: open all links externally
+
+### 0.5.9
+
+* refresh PyPI metadata in the background
+* cache PyPI metadata for 10 minutes
+* do not crash if connection to PyPI fails
+
+## Credits
+
+Icon made by [Freepik][] from [www.flaticon.com][].
+
+  [Freepik]: http://www.freepik.com/
+  [www.flaticon.com]: http://www.flaticon.com/

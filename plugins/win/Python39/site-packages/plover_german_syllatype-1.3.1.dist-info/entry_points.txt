@@ -1,0 +1,6 @@
+[plover.dictionary]
+jsyl = plover_german_syllatype:JSONSyllatypeDictionary
+syl = plover_german_syllatype:SyllatypeDictionary
+
+[plover.system]
+German Syllatype = plover_german_syllatype.system
