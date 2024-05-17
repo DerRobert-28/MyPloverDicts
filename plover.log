@@ -10038,3 +10038,57 @@ FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Robert\\AppD
 2024-05-17 19:20:24,067 [Dummy-1] INFO: loaded 16 dictionaries in 0.001s
 2024-05-17 19:20:24,081 [Dummy-1] INFO: setting machine: Keyboard
 2024-05-17 19:20:24,312 [Dummy-1] INFO: loaded 16 dictionaries in 0.001s
+2024-05-17 19:32:24,231 [MainThread] INFO: setting language to: en_US
+2024-05-17 19:32:24,958 [Dummy-1] INFO: set_stroke_filename(C:\Users\Robert\AppData\Local\plover\plover\strokes.log)
+2024-05-17 19:32:24,958 [Dummy-1] INFO: loading system: English Stenotype
+2024-05-17 19:32:25,130 [Dummy-1] INFO: setting machine: Keyboard
+2024-05-17 19:32:25,393 [Dummy-1] INFO: loading dictionary: c:\users\robert\appdata\local\plover\plover\scripting.json
+2024-05-17 19:32:25,393 [Dummy-1] INFO: loading dictionary: c:\users\robert\appdata\local\plover\plover\emoji.json
+2024-05-17 19:32:25,394 [Dummy-1] INFO: loading dictionary: c:\users\robert\appdata\local\plover\plover\names.json
+2024-05-17 19:32:25,396 [Dummy-1] INFO: loading dictionary: c:\users\robert\appdata\local\plover\plover\german 5 [shorts].json
+2024-05-17 19:32:25,397 [Dummy-1] INFO: loading dictionary: c:\users\robert\appdata\local\plover\plover\german 4 [numbers].json
+2024-05-17 19:32:25,398 [Thread-3] WARNING: dictionary `scripting.json` loaded with 1 invalid steno errors
+2024-05-17 19:32:25,398 [Dummy-1] INFO: loading dictionary: c:\users\robert\appdata\local\plover\plover\german 3 [alternative].json
+2024-05-17 19:32:25,399 [Dummy-1] INFO: loading dictionary: c:\users\robert\appdata\local\plover\plover\german 2 [extended].json
+2024-05-17 19:32:25,399 [Thread-5] WARNING: dictionary `names.json` loaded with 5 invalid steno errors
+2024-05-17 19:32:25,399 [Dummy-1] INFO: loading dictionary: c:\users\robert\appdata\local\plover\plover\german 1 [plain].json
+2024-05-17 19:32:25,399 [Thread-4] WARNING: dictionary `emoji.json` loaded with 4 invalid steno errors
+2024-05-17 19:32:25,400 [Thread-6] WARNING: dictionary `german 5 [shorts].json` loaded with 1 invalid steno errors
+2024-05-17 19:32:25,401 [Dummy-1] INFO: loading dictionary: c:\users\robert\appdata\local\plover\plover\regenpfeifer.json
+2024-05-17 19:32:25,402 [Thread-7] WARNING: dictionary `german 4 [numbers].json` loaded with 7 invalid steno errors
+2024-05-17 19:32:25,403 [Thread-8] WARNING: dictionary `german 3 [alternative].json` loaded with 2 invalid steno errors
+2024-05-17 19:32:25,404 [Dummy-1] INFO: loading dictionary: c:\users\robert\appdata\local\plover\plover\translation.json
+2024-05-17 19:32:25,405 [Thread-9] WARNING: dictionary `german 2 [extended].json` loaded with 1 invalid steno errors
+2024-05-17 19:32:25,406 [Thread-10] WARNING: dictionary `german 1 [plain].json` loaded with 21 invalid steno errors
+2024-05-17 19:32:25,406 [Dummy-1] INFO: loading dictionary: c:\users\robert\appdata\local\plover\plover\english 3 [alternative].json
+2024-05-17 19:32:25,407 [Dummy-1] INFO: loading dictionary: c:\users\robert\appdata\local\plover\plover\english 2 [extended].json
+2024-05-17 19:32:25,408 [Dummy-1] INFO: loading dictionary: c:\users\robert\appdata\local\plover\plover\english 1 [plain].json
+2024-05-17 19:32:25,511 [Dummy-1] INFO: loading dictionary: c:\users\robert\appdata\local\plover\plover\steno.json
+2024-05-17 19:32:25,512 [Thread-12] WARNING: dictionary `translation.json` loaded with 4 invalid steno errors
+2024-05-17 19:32:25,523 [Dummy-1] INFO: loading dictionary: c:\users\robert\appdata\local\plover\plover\user.json
+2024-05-17 19:32:25,563 [Dummy-1] INFO: loading dictionary: c:\users\robert\appdata\local\plover\plover\main.json
+2024-05-17 19:32:25,563 [Thread-13] WARNING: dictionary `english 3 [alternative].json` loaded with 1 invalid steno errors
+2024-05-17 19:32:25,563 [Thread-15] WARNING: dictionary `english 1 [plain].json` loaded with 1 invalid steno errors
+2024-05-17 19:32:25,606 [Thread-14] WARNING: dictionary `english 2 [extended].json` loaded with 2 invalid steno errors
+2024-05-17 19:32:25,617 [Thread-16] WARNING: dictionary `steno.json` loaded with 1 invalid steno errors
+2024-05-17 19:32:25,629 [Thread-17] WARNING: dictionary `user.json` loaded with 1 invalid steno errors
+2024-05-17 19:32:26,648 [Thread-11] WARNING: dictionary `regenpfeifer.json` loaded with 20273 invalid steno errors
+2024-05-17 19:32:26,666 [Dummy-1] INFO: loaded 16 dictionaries in 1.273s
+2024-05-17 19:39:35,603 [Dummy-1] INFO: setting machine: Keyboard
+2024-05-17 19:39:35,825 [Dummy-1] INFO: loading dictionary: c:\users\robert\appdata\local\plover\plover\scripting.json
+2024-05-17 19:39:35,829 [Thread-21] WARNING: dictionary `scripting.json` loaded with 1 invalid steno errors
+2024-05-17 19:39:35,829 [Dummy-1] INFO: loaded 16 dictionaries in 0.004s
+2024-05-17 19:39:35,846 [Dummy-1] INFO: setting machine: Keyboard
+2024-05-17 19:39:36,064 [Dummy-1] INFO: loaded 16 dictionaries in 0.000s
+2024-05-17 19:44:31,106 [Dummy-1] INFO: setting machine: Keyboard
+2024-05-17 19:44:31,349 [Dummy-1] INFO: loading dictionary: c:\users\robert\appdata\local\plover\plover\scripting.json
+2024-05-17 19:44:31,354 [Thread-24] WARNING: dictionary `scripting.json` loaded with 1 invalid steno errors
+2024-05-17 19:44:31,355 [Dummy-1] INFO: loaded 16 dictionaries in 0.006s
+2024-05-17 19:48:52,944 [Dummy-1] INFO: setting machine: Keyboard
+2024-05-17 19:48:53,171 [Dummy-1] INFO: loading dictionary: c:\users\robert\appdata\local\plover\plover\scripting.json
+2024-05-17 19:48:53,176 [Thread-26] WARNING: dictionary `scripting.json` loaded with 1 invalid steno errors
+2024-05-17 19:48:53,177 [Dummy-1] INFO: loaded 16 dictionaries in 0.006s
+2024-05-17 19:49:30,229 [Dummy-1] INFO: setting machine: Keyboard
+2024-05-17 19:49:30,461 [Dummy-1] INFO: loading dictionary: c:\users\robert\appdata\local\plover\plover\scripting.json
+2024-05-17 19:49:30,465 [Thread-28] WARNING: dictionary `scripting.json` loaded with 1 invalid steno errors
+2024-05-17 19:49:30,465 [Dummy-1] INFO: loaded 16 dictionaries in 0.004s
