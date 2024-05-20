@@ -1,4 +1,13 @@
-
 *.log
-*.log
-plover.log
+.cache
+.cache/
+.vs
+.vs/
+/.cache
+/.cache/
+/.vs
+/.vs/
+/Default
+/Default/
+Default
+Default/
