@@ -6,11 +6,13 @@
 > German 3 [Alternative].json
 > German 2 [Extended].json
 > German 1 [Plain].json
+> German 0 [Spelling].json
 > Regenpfeifer.json
 > Translation.json
 > English 3 [Alternative].json
 > English 2 [Extended].json
 > English 1 [Plain].json
+> English 0 [Spelling].json
 > Steno.json
 > User.json
 > Main.json
