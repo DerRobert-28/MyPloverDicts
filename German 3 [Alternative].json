@@ -1,6 +1,5 @@
 {
 "*ERS": "er's",
-"*ERS": "er's",
 "*ETZ": "jetz'",
 "*EUPB": "ihn",
 "*EUPL": "ihm",
@@ -68,6 +67,7 @@
 "EUFP/#": "Ich",
 "EUG": "{^}ig",
 "EUPB": "in",
+"EUPBS/TRU/PHEPB/TAL": "instrumental",
 "EUPL": "im",
 "EUR": "ihr",
 "EUR/#": "Ihr",
@@ -266,6 +266,7 @@
 "SEU/TKPWER": "Sieger",
 "SEU/TKPWERS": "Siegers",
 "SEUFP": "sich",
+"SEUPB/TRU/PHEPB/TAL": "instrumental",
 "SEUPBD": "sind",
 "SEURG": "Sieger",
 "SEURGS": "Siegers",
