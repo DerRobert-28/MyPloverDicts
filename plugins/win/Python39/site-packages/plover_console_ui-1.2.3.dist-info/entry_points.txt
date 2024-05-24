@@ -1,0 +1,2 @@
+[plover.gui]
+console = plover_console_ui.plugin

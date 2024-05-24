@@ -1,7 +1,7 @@
 {
 "*EUB": "bin ich",
-"*UB": "bist du",
 "*EZ": "einfach",
+"*UB": "bist du",
 "*UL": "willst du",
 "*UR": "bist du",
 "-B": "sein",
@@ -307,6 +307,7 @@
 "TKPWOPB": "gegangen",
 "TKU": "du tatst",
 "TKU/U": "ihr tatet",
+"TO": "zu",
 "TPHO*T": "nicht",
 "TPHOT": "nicht",
 "TPHRAEPL": "Flamme",
