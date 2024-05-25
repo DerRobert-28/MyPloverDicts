@@ -1,3 +1,4 @@
+> Typing.json
 > Emoji.json
 > Names.json
 > German 5 [Shorts].json
