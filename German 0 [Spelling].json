@@ -5,21 +5,139 @@
 "A/O/R/-T/A": "Aorta",
 "A/O/-R/-T/A": "Aorta",
 
-"": "",
+"A/-P/E/R/O/-L": "Aperol",
+"A/P/E/R/O/-L": "Aperol",
+"A/-P/E/-R/O/-L": "Aperol",
+"A/P/E/-R/O/-L": "Aperol",
 
-"A/PE/ROL": "Aperol",
-"A/PRO/POS": "apropos",
-"A/TOL": "Atol",
-"AB": "ab",
-"AB/OR/TE": "Aborte",
-"AB/OR/TES": "Abortes",
-"AB/ORT": "Abort",
-"AB/ORTS": "Aborts",
-"AB/RUF": "Abruf",
-"AB/RUFS": "Abrufs",
-"AB/SATZ": "Absatz",
-"AB/SURD": "absurd",
-"AF/TER": "After",
+
+"T/A/S/T/A/T/U/-R": "Tastatur",
+"T/A/S/T/A/T/U/R": "Tastatur",
+
+"T/A/S/T/A/-T/U/-R": "Tastatur",
+"T/A/S/T/A/-T/U/R": "Tastatur",
+
+"T/A/S/-T/A/T/U/-R": "Tastatur",
+"T/A/S/-T/A/T/U/R": "Tastatur",
+
+"T/A/S/-T/A/-T/U/-R": "Tastatur",
+"T/A/S/-T/A/-T/U/R": "Tastatur",
+
+"-T/A/S/T/A/T/U/-R": "Tastatur",
+"-T/A/S/T/A/T/U/R": "Tastatur",
+
+"-T/A/S/T/A/-T/U/-R": "Tastatur",
+"-T/A/S/T/A/-T/U/R": "Tastatur",
+
+"-T/A/S/-T/A/T/U/-R": "Tastatur",
+"-T/A/S/-T/A/T/U/R": "Tastatur",
+
+"-T/A/S/-T/A/-T/U/-R": "Tastatur",
+"-T/A/S/-T/A/-T/U/R": "Tastatur",
+
+
+"A/P/R/O/P/O/S": "apropos",
+"A/P/R/O/P/O/-S": "apropos",
+
+"A/P/R/O/-P/O/S": "apropos",
+"A/P/R/O/-P/O/-S": "apropos",
+
+
+
+"A/P/-R/O/P/O/S": "apropos",
+"A/P/-R/O/P/O/-S": "apropos",
+
+"A/P/-R/O/-P/O/S": "apropos",
+"A/P/-R/O/-P/O/-S": "apropos",
+
+
+
+
+"A/-P/R/O/P/O/S": "apropos",
+"A/-P/R/O/P/O/-S": "apropos",
+
+"A/-P/R/O/-P/O/S": "apropos",
+"A/-P/R/O/-P/O/-S": "apropos",
+
+
+
+"A/-P/-R/O/P/O/S": "apropos",
+"A/-P/-R/O/P/O/-S": "apropos",
+
+"A/-P/-R/O/-P/O/S": "apropos",
+"A/-P/-R/O/-P/O/-S": "apropos",
+
+
+"A/-T/O/-L": "Atol",
+"A/T/O/-L": "Atol",
+"A/-B": "ab",
+
+"A/-B/O/R/T/E": "Aborte",
+"A/-B/O/-R/T/E": "Aborte",
+"A/-B/O/R/-T/E": "Aborte",
+"A/-B/O/-R/-T/E": "Aborte",
+
+"A/-B/O/R/T/E/S": "Abortes",
+"A/-B/O/R/T/E/-S": "Abortes",
+
+"A/-B/O/R/-T/E/S": "Abortes",
+"A/-B/O/R/-T/E/-S": "Abortes",
+
+
+"A/-B/O/-R/T/E/S": "Abortes",
+"A/-B/O/-R/T/E/-S": "Abortes",
+
+"A/-B/O/-R/-T/E/S": "Abortes",
+"A/-B/O/-R/-T/E/-S": "Abortes",
+
+"A/-B/O/R/T": "Abort",
+"A/-B/O/-R/T": "Abort",
+
+"A/-B/O/R/-T": "Abort",
+"A/-B/O/-R/-T": "Abort",
+
+
+"A/-B/O/R/T/S": "Aborts",
+"A/-B/O/-R/T/S": "Aborts",
+
+"A/-B/O/R/-T/S": "Aborts",
+"A/-B/O/-R/-T/S": "Aborts",
+
+
+"A/-B/O/R/T/-S": "Aborts",
+"A/-B/O/-R/T/-S": "Aborts",
+
+"A/-B/O/R/-T/-S": "Aborts",
+"A/-B/O/-R/-T/-S": "Aborts",
+
+"A/-B/R/U/-F": "Abruf",
+"A/-B/-R/U/-F": "Abruf",
+
+"A/-B/R/U/-F/S": "Abrufs",
+"A/-B/R/U/-F/-S": "Abrufs",
+"A/-B/-R/U/-F/S": "Abrufs",
+"A/-B/-R/U/-F/-S": "Abrufs",
+
+"A/-B/S/A/T/-Z": "Absatz",
+"A/-B/-S/A/T/-Z": "Absatz",
+
+"A/-B/S/A/-T/-Z": "Absatz",
+"A/-B/-S/A/-T/-Z": "Absatz",
+
+"A/-B/S/U/R/-D": "absurd",
+"A/-B/-S/U/R/-D": "absurd",
+"A/-B/S/U/-R/-D": "absurd",
+"A/-B/-S/U/-R/-D": "absurd",
+
+"A/-F/T/E/R": "After",
+"A/-F/-T/E/R": "After",
+
+"A/-F/T/E/-R": "After",
+"A/-F/-T/E/-R": "After",
+
+
+----------------------------------------------------------------
+
 "AF/TERS": "Afters",
 "AL/PA/KA": "Alpaka",
 "AL/PAK/KA": "Alpakka",
