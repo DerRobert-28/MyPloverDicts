@@ -1,4 +1,7 @@
 {
+"#K": "{*-|}",
+"#R": "{*>}",
+"#W": "{*<}",
 "*RG": "{^}ehrung",
 "-F/-G": "freundliche Grüße",
 "-F/-G/-R/-L/K": "{^}\nFreundliche Grüße\n\n\nRobert Lang-Kirchhöfer\n{^}",
@@ -39,6 +42,7 @@
 "A": "ein",
 "A/#": "eine",
 "A/A": "eine",
+"ETZ": "jetzt",
 "K-FRLG": "{^}\nFreundliche Grüße\n\n\nRobert Lang-Kirchhöfer\n{^}",
 "K-RL": "Robert Lang-Kirchhöfer",
 "K-RLG": "{^}\nLiebe Grüße\n\n\nRobert L.-K.\n{^}",
@@ -69,7 +73,6 @@
 "TFL/#/#/#/#/#": "Teufel",
 "TPHEG/REG/#": "Ein Neger mit Gazelle zagt im Regen nie.",
 "U": "und",
-"ETZ": "jetzt",
 "UPB/TER/TKPW": "untergehen",
 "W": "wer",
 "W-FG": "mit freundlichen Grüßen",
