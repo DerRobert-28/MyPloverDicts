@@ -1,4 +1,3 @@
-> Typing.json
 > Emoji.json
 > Names.json
 > German 5 [Shorts].json
@@ -13,6 +12,7 @@
 > English 2 [Extended].json
 > English 1 [Plain].json
 > English 0 [Spelling].json
+> Typing.json
 > Steno.json
 > User.json
 > Main.json
