@@ -1,4 +1,8 @@
 {
+"-D/A/-T/A": "data",
+"-D/A/-T/E": "date",
+"-D/A/T/A": "data",
+"-D/A/T/E": "date",
 "-D/E/-F/A/U/-L/-T": "default",
 "-D/E/-F/A/U/-L/T": "default",
 "-G/-R/A/-S/-S": "grass",
