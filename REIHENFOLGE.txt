@@ -14,5 +14,7 @@
 > English 0 [Spelling].json
 > Typing.json
 > Steno.json
+> Custom.json
 > User.json
 > Main.json
+> Commands.json
